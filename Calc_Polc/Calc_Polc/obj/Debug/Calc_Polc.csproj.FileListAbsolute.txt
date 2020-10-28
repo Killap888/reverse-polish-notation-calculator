@@ -1,0 +1,9 @@
+E:\VS_Proj\Calc_Polc\Calc_Polc\bin\Debug\Calc_Polc.exe.config
+E:\VS_Proj\Calc_Polc\Calc_Polc\bin\Debug\Calc_Polc.exe
+E:\VS_Proj\Calc_Polc\Calc_Polc\bin\Debug\Calc_Polc.pdb
+E:\VS_Proj\Calc_Polc\Calc_Polc\obj\Debug\Calc_Polc.csprojAssemblyReference.cache
+E:\VS_Proj\Calc_Polc\Calc_Polc\obj\Debug\Calc_Polc.Properties.Resources.resources
+E:\VS_Proj\Calc_Polc\Calc_Polc\obj\Debug\Calc_Polc.csproj.GenerateResource.cache
+E:\VS_Proj\Calc_Polc\Calc_Polc\obj\Debug\Calc_Polc.exe
+E:\VS_Proj\Calc_Polc\Calc_Polc\obj\Debug\Calc_Polc.pdb
+E:\VS_Proj\Calc_Polc\Calc_Polc\obj\Debug\Calc_Polc.Form1.resources
